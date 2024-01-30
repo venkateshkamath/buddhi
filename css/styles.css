@@ -166,6 +166,11 @@ h1 > span {
 h3 > span {
   color: var(--clr-primary-gold);
 }
+p span{
+
+    color: var(--clr-primary-gold);
+  
+}
 .section-title span {
   color: var(--clr-primary-gold);
 }
